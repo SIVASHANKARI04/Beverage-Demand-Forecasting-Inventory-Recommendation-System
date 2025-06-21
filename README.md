@@ -1,6 +1,6 @@
-# Beverage-Demand-Forecasting-Inventory-Recommendation-System
+# 🍹 Beverage-Demand-Forecasting-Inventory-Recommendation-System
 
-🍹 Beverage Demand Forecasting & Inventory Recommendation System
+
 This project aims to forecast beverage consumption and recommend optimal inventory (par) levels for a growing hotel chain with multiple bars. By analyzing historical sales data, the system helps reduce stockouts and overstocking using advanced time series models and machine learning techniques.
 
 📌 Project Objectives
