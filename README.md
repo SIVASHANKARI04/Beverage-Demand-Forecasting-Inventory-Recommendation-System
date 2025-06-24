@@ -57,7 +57,9 @@ Deployment: Streamlit app hosted on AWS EC2
 
 Tracking: MLflow (for experiment tracking)
 
+
 🚀 Features of the Web App
+
 
 📈 Forecast future beverage demand for any outlet/item
 
